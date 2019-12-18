@@ -42,12 +42,6 @@ session_start();
       <nav class="navigation__nav">
         <ul class="navigation__list">
           <li class="navigation__item">
-            <a target="_self" href="#aboUT" class="navigation__link" onclick="changeDisp(event)"><span>01</span>About Kaizen</a>
-          </li>
-          <li class="navigation__item">
-            <a href="#evenTS" class="navigation__link"><span>02</span>Events</a>
-          </li>
-          <li class="navigation__item">
             <a href="#visiON" class="navigation__link"><span>03</span>Vision</a>
           </li>
           <li class="navigation__item">
@@ -55,7 +49,13 @@ session_start();
           </li>
           <li class="navigation__item">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBz8N4HIOVU3GCjZ6W5BSfAqfdjFIP3hAV4JSGNNnnPhd8Mw/viewform" class="navigation__link"><span>04</span>Mentorship Portal</a>
-          </li> 
+          </li>
+          <li class="navigation__item">
+            <a target="_self" href="#aboUT" class="navigation__link" onclick="changeDisp(event)"><span>01</span>About Kaizen</a>
+          </li>
+          <li class="navigation__item">
+            <a href="#evenTS" class="navigation__link"><span>02</span>Events</a>
+          </li>
           <li class="navigation__item">
             <a href="#Contact" class="navigation__link"><span>05</span>Contact Us</a>
           </li>
@@ -75,8 +75,10 @@ session_start();
         </h1>
 
         <a href="#evenTS" class="btn btn--white btn--animated"
-          >Discover Events</a
-        >
+          >Discover Events</a>
+        <br/><br/>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBz8N4HIOVU3GCjZ6W5BSfAqfdjFIP3hAV4JSGNNnnPhd8Mw/viewform" class="btn btn--white btn--animated"
+          >Mentorship Portal</a>
       </div>
     </header>
 
@@ -232,7 +234,7 @@ session_start();
                   designed by our team. With the ever changing technology, CES
                   aims to keep the students updated about the knowledge of the
                   field, thus making it easy for them to decide on their career
-                  prospects. Kaizen 5.0 was a great success with around 500 participants from all across South Gujarat.
+                  prospects.
                 </p>
               </div>
             </div>

@@ -26,7 +26,7 @@ session_start();
       integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
       crossorigin="anonymous"
     />
-    <title>Kaizen | Civil Engineering Society</title>
+    <title>Civil Engineering Society</title>
   </head>
 
   <body>
@@ -70,7 +70,7 @@ session_start();
 
       <div class="header__text-box">
         <h1 class="heading-primary">
-          <span class="heading-primary--main display-1">Kaizen 5.0</span>
+          <span class="heading-primary--main display-1">CES</span>
           <span class="heading-primary--sub">Civil Engineering Society</span>
         </h1>
 

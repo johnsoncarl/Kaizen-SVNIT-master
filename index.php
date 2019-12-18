@@ -122,67 +122,7 @@ session_start();
         <br /><br /><br /><br /><br /><br />
       </section>
       
-      
-      <section class="section-about" id="aboUT">
-        <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">About Kaizen</h2>
-        </div>
-        <div class="conatiner">
-          <div class="row">
-            <div class="col-12 col-sm-12 col-md-6" style="padding-left: 5%;">
-              <h3 class="heading-tertiary u-margin-bottom-small">
-                ALL ABOUT THE OLDEST STUDENT CHAPTER...
-              </h3>
-              <p class="paragraph">
-                Kaizen is the annual technical fest of the civil engineering
-                society, NIT Surat (CES), the oldest student chapter of Sardar
-                Vallabhbhai National Institute of Technology.
-              </p>
-
-              <p class="paragraph">
-                Since it's inception, Kaizen has been always successful
-                in-offering a wild range of events, workshops and fun-field
-                games to the students. The 5th installment, KAIZEN 5.0 was held during 1st-3rd February, 2019.
-              </p>
-              <br /><br /><br /><br />
-            </div>
-            <div class="col-12 col-sm-12 col-md-6" style="padding-right: 5%;">
-              <div class="composition">
-                <img
-                  srcset="img-tech/img-4.jpg 300w, img-tech/img-4.jpg 1000w"
-                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
-                  alt="Photo 1"
-                  class="composition__photo composition__photo--p1"
-                  src="img-tech/img-4.jpg"
-                />
-
-                <img
-                  srcset="img-tech/img-2.jpg 300w, img-tech/img-2.jpg 1000w"
-                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
-                  alt="Photo 2"
-                  class="composition__photo composition__photo--p2"
-                  src="img-tech/img-2.jpg"
-                />
-
-                <img
-                  srcset="img-tech/img-3.JPG 300w, img-tech/img-3.JPG 1000w"
-                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
-                  alt="Photo 3"
-                  class="composition__photo composition__photo--p3"
-                  src="img-tech/img-3.JPG"
-                />
-
-                <!--
-                                <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1">
-                                <img src="img/nat-2-large.jpg" alt="Photo 2" class="composition__photo composition__photo--p2">
-                                <img src="img/nat-3-large.jpg" alt="Photo 3" class="composition__photo composition__photo--p3">
-                                -->
-              </div>
-              <br /><br /><br /><br />
-            </div>
-          </div>
-        </div>
-      </section>
+     
       <br /><br /><br /><br /><br />
       <section class="section-features" id="evenTS">
         <div class="u-center-text u-margin-bottom-big">
@@ -245,7 +185,66 @@ session_start();
         </div>
       </section>
 
-      
+      <section class="section-about" id="aboUT">
+        <div class="u-center-text u-margin-bottom-big">
+          <h2 class="heading-secondary">About Kaizen</h2>
+        </div>
+        <div class="conatiner">
+          <div class="row">
+            <div class="col-12 col-sm-12 col-md-6" style="padding-left: 5%;">
+              <h3 class="heading-tertiary u-margin-bottom-small">
+                ALL ABOUT THE OLDEST STUDENT CHAPTER...
+              </h3>
+              <p class="paragraph">
+                Kaizen is the annual technical fest of the civil engineering
+                society, NIT Surat (CES), the oldest student chapter of Sardar
+                Vallabhbhai National Institute of Technology.
+              </p>
+
+              <p class="paragraph">
+                Since it's inception, Kaizen has been always successful
+                in-offering a wild range of events, workshops and fun-field
+                games to the students. The 5th installment, KAIZEN 5.0 was held during 1st-3rd February, 2019.
+              </p>
+              <br /><br /><br /><br />
+            </div>
+            <div class="col-12 col-sm-12 col-md-6" style="padding-right: 5%;">
+              <div class="composition">
+                <img
+                  srcset="img-tech/img-4.jpg 300w, img-tech/img-4.jpg 1000w"
+                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
+                  alt="Photo 1"
+                  class="composition__photo composition__photo--p1"
+                  src="img-tech/img-4.jpg"
+                />
+
+                <img
+                  srcset="img-tech/img-2.jpg 300w, img-tech/img-2.jpg 1000w"
+                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
+                  alt="Photo 2"
+                  class="composition__photo composition__photo--p2"
+                  src="img-tech/img-2.jpg"
+                />
+
+                <img
+                  srcset="img-tech/img-3.JPG 300w, img-tech/img-3.JPG 1000w"
+                  sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px"
+                  alt="Photo 3"
+                  class="composition__photo composition__photo--p3"
+                  src="img-tech/img-3.JPG"
+                />
+
+                <!--
+                                <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1">
+                                <img src="img/nat-2-large.jpg" alt="Photo 2" class="composition__photo composition__photo--p2">
+                                <img src="img/nat-3-large.jpg" alt="Photo 3" class="composition__photo composition__photo--p3">
+                                -->
+              </div>
+              <br /><br /><br /><br />
+            </div>
+          </div>
+        </div>
+      </section>
 
       <section class="section-features" id="Contact">
         <div class="u-center-text u-margin-bottom-big">

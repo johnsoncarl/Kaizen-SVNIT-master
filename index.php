@@ -89,6 +89,40 @@ session_start();
           frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen></iframe>
       </section>
+      
+      <section class="section-stories" id="visiON">
+        <div class="bg-video">
+          <video class="bg-video__content" autoplay muted loop>
+            <source src="img/video.mp4" type="video/mp4" />
+            <source src="img/video.webm" type="video/webm" />
+            Your browser is not supported!
+          </video>
+        </div>
+
+        <div class="u-center-text u-margin-bottom-big">
+          <h2 class="heading-secondary">Our Vision</h2>
+        </div>
+
+        <div class="container-fluid">
+          <div>
+            <div class="container">
+              <div class="col-12 col-lg-9">
+                <p style="font-size: 18px">
+                  CES, NIT Surat aims at providing students with the insights of
+                  Civil Engineering through a wide range of events specially
+                  designed by our team. With the ever changing technology, CES
+                  aims to keep the students updated about the knowledge of the
+                  field, thus making it easy for them to decide on their career
+                  prospects.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br /><br /><br /><br /><br /><br />
+      </section>
+      
+      
       <section class="section-about" id="aboUT">
         <div class="u-center-text u-margin-bottom-big">
           <h2 class="heading-secondary">About Kaizen</h2>
@@ -211,37 +245,7 @@ session_start();
         </div>
       </section>
 
-      <section class="section-stories" id="visiON">
-        <div class="bg-video">
-          <video class="bg-video__content" autoplay muted loop>
-            <source src="img/video.mp4" type="video/mp4" />
-            <source src="img/video.webm" type="video/webm" />
-            Your browser is not supported!
-          </video>
-        </div>
-
-        <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">Our Vision</h2>
-        </div>
-
-        <div class="container-fluid">
-          <div>
-            <div class="container">
-              <div class="col-12 col-lg-9">
-                <p style="font-size: 18px">
-                  CES, NIT Surat aims at providing students with the insights of
-                  Civil Engineering through a wide range of events specially
-                  designed by our team. With the ever changing technology, CES
-                  aims to keep the students updated about the knowledge of the
-                  field, thus making it easy for them to decide on their career
-                  prospects.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <br /><br /><br /><br /><br /><br />
-      </section>
+      
 
       <section class="section-features" id="Contact">
         <div class="u-center-text u-margin-bottom-big">

@@ -331,16 +331,8 @@ session_start();
               ><i class="fab fa-instagram footerIcons"></i
             ></a>
           </li>
-          <li class="footer__item">
-            <a href="https://www.youtube.com/channel/UCQRgD4IaAHkcr-wqFzLi-2A/featured" class="footer__link"
-              ><i class="fab fa-youtube footerIcons"></i
-            ></a>
-          </li>
-          <li class="footer__item">
-            <a href="#" class="footer__link"
-              ><i class="fab fa-linkedin-in footerIcons"></i
-            ></a>
-          </li>
+          
+          
         </ul>
       </div>
     </footer>
